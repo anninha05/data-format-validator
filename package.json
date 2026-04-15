@@ -1,0 +1,21 @@
+{
+  "name": "data-input-validator",
+  "version": "1.0.0",
+  "description": "Brazilian data validator built upon regular languages and automata theory.",
+  "main": "index.js",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linguagens-formais",
+    "automatos",
+    "teoria-da-computacao",
+    "regex"
+  ],
+  "author": "Anna Julya",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.x.x"
+  }
+}
