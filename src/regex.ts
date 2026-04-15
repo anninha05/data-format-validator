@@ -1,0 +1,14 @@
+export const cepRegex = /^[0-9]{5}-?[0-9]{3}$/;
+export const cpfRegex = /^[0-9]{3}\.[0-9]{3}\.[0-9]{3}-[0-9]{2}$/;
+export const cnpjRegex = /^[0-9]{2}\.[0-9]{3}\.[0-9]{3}\/[0-9]{4}-[0-9]{2}$/;
+export const rgRegex = /^[0-9]{1,2}\.[0-9]{3}\.[0-9]{3}-[0-9]{1}$/;
+export const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+export const telephoneRegex = /^\([0-9]{2}\) [0-9]{4,5}-[0-9]{4}$/;
+export const renavamRegex = /^[0-9]{11}$/;
+export const carPlateRegex = /^[A-Z]{3}-[0-9]{4}$/;
+export const dateRegex = /^\d{2}\/\d{2}\/\d{4}$/;
+export const hourRegex = /^([01]\d|2[0-3]):([0-5]\d)$/;
+export const creditCardRegex = /^([0-9]{4}[- ]){3}[0-9]{4}$/;
+export const pisPasepRegex = /^[0-9]{3}\.[0-9]{5}\.[0-9]{2}-[0-9]{1}$/;
+export const cnhRegex = /^[0-9]{11}$/;
+export const oabRegex = /^[0-9]{5}-[0-9]{2}$/;
