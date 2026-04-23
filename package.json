@@ -1,5 +1,5 @@
 {
-  "name": "data-input-validator",
+  "name": "data-format-validator",
   "version": "1.0.0",
   "description": "Brazilian data validator built upon regular languages and automata theory.",
   "main": "index.js",
